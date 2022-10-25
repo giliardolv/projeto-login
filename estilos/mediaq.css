@@ -30,6 +30,9 @@ Grandes telas: acima de 1200px
     div#form > p{
         font-size: 0.9em;
     }
+    form{
+        width: 70%;
+    }
 }
 
 @media screen and (min-width: 992px) {
@@ -51,5 +54,8 @@ Grandes telas: acima de 1200px
     }
     div#form > p{
         font-size: 1em;
+    }
+    form{
+    width: 50%;   
     }
 }
